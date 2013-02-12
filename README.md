@@ -5,4 +5,11 @@ This is just a component based Git practice repeat.
 
 Name your branch using your own name.
 
+COMMITER |||| REVIEWER
+ADAM            ALI
+ALI             KHOLOUD
+KAREEM          ADAM
+KHOLOUD         KAREEM
 
+ADD YOUR NAME BELOW THE FOLLOWING LINE
+--------------------------------------
